@@ -1,0 +1,13 @@
+[programs.devnet]
+mysoltreeproj = "EQ7easLu3LFcgVbTYLqUqsRnxK8viDUuKndPsf76rHNE"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/home/pc/.config/solana/id.json"
+
+[scripts]
+test = "node tests/mysoltreeproj.js" 
+
